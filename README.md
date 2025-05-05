@@ -11,7 +11,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** C#, Python, TypeScript  
-- **Frameworks:** Angular, Rasa  
+- **Frameworks:** Angular, .Net  
 - **Containers:** Docker, Docker Compose  
 - **Bancos de Dados:** SQL Server  
 - **Editores:** VS Code, Rider, SQL Management Studio
